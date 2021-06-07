@@ -1,0 +1,9 @@
+Jun 03 15:11 : exception: Failed to open '/home/sarthak/.mpd/mpdstate': No such file or directory
+Jun 03 15:11 : exception: Failed to access /home/sarthak/music: No such file or directory
+Jun 03 15:14 : update: added /Blackbear - Idfc.mp3
+Jun 03 16:15 : update: removing Blackbear - Idfc.mp3
+Jun 03 16:15 : player: played "Blackbear - Idfc.mp3"
+Jun 06 23:16 : update: added /blackbear - idfc (Lyrics)(MP3_160K)_1.mp3
+Jun 06 23:30 : player: played "blackbear - idfc (Lyrics)(MP3_160K)_1.mp3"
+Jun 06 23:34 : player: played "blackbear - idfc (Lyrics)(MP3_160K)_1.mp3"
+Jun 06 23:38 : player: played "blackbear - idfc (Lyrics)(MP3_160K)_1.mp3"
